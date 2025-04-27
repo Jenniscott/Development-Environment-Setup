@@ -19,6 +19,10 @@ This document consists of the difference between Hardhat and foundry environment
 
 
 
+
+
+
+
 ## 2. Local IDE (Visual Studio Code) vs Remix
 
 
